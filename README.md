@@ -33,3 +33,6 @@ Este laboratório foi importante para eu colocar em prática conceitos básicos 
 **Resolução de problemas:** Aprender a identificar por que um comando "ping" falha e saber como ajustar as configurações para resolver o problema me deu mais segurança.
 
 Esse projeto é o ponto para meus próximos esudos em infraestrutura e segurança de redes.
+
+## Arquivo do Laboratório
+[Baixar laboratório Packet Tracer](./teste1.pkt)
